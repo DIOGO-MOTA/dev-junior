@@ -7,7 +7,7 @@
 
 ## Clonar o repositório:
 
-git clone + link
+git clone https://github.com/DIOGO-MOTA/dev-junior.git
 
 ## Execução de Projeto
 1. yarn
