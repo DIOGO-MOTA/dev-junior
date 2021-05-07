@@ -1,0 +1,49 @@
+{
+  "client": [
+    {
+      "name": "Joao marcos lara",
+      "saleOrder": "so-202223777",
+      "region": "cerrado",
+      "local": "campo de meio",
+      "team": "wes",
+      "product": "Coffee Arabica",
+      "receipt": "10433408",
+      "descriptionReceiver": "coop reeg cafeic ",
+      "modality": "fe",
+      "coin": "USD",
+      "value": "3000",
+      "available": true,
+      "id": 2
+    },
+    {
+      "name": "DIOGO",
+      "saleOrder": "",
+      "region": "",
+      "local": "",
+      "team": "",
+      "product": "",
+      "receipt": "",
+      "descriptionReceiver": "",
+      "modality": "",
+      "coin": "",
+      "value": "",
+      "available": true,
+      "id": 3
+    },
+    {
+      "name": "TESTE3",
+      "saleOrder": "",
+      "region": "",
+      "local": "",
+      "team": "",
+      "product": "",
+      "receipt": "",
+      "descriptionReceiver": "",
+      "modality": "",
+      "coin": "",
+      "value": "",
+      "available": true,
+      "id": 6
+    }
+  ]
+}
